@@ -7,8 +7,8 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/Bacbia3696/go-queryset/internal/parser"
-	"github.com/Bacbia3696/go-queryset/internal/queryset/generator"
+	"github.com/quangdangfit/go-queryset/internal/parser"
+	"github.com/quangdangfit/go-queryset/internal/queryset/generator"
 )
 
 func main() {

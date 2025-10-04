@@ -1,8 +1,8 @@
 package methods
 
 import (
-	"github.com/Bacbia3696/go-queryset/internal/parser"
-	"github.com/Bacbia3696/go-queryset/internal/queryset/field"
+	"github.com/quangdangfit/go-queryset/internal/parser"
+	"github.com/quangdangfit/go-queryset/internal/queryset/field"
 )
 
 type QsStructContext struct {

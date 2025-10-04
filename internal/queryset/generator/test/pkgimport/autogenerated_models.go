@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"strings"
 
-	forex "github.com/Bacbia3696/go-queryset/internal/queryset/generator/test/pkgimport/forex/v1"
+	forex "github.com/quangdangfit/go-queryset/internal/queryset/generator/test/pkgimport/forex/v1"
 	"gorm.io/gorm"
 )
 

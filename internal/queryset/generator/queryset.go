@@ -9,9 +9,9 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/Bacbia3696/go-queryset/internal/parser"
-	"github.com/Bacbia3696/go-queryset/internal/queryset/field"
-	"github.com/Bacbia3696/go-queryset/internal/queryset/methods"
+	"github.com/quangdangfit/go-queryset/internal/parser"
+	"github.com/quangdangfit/go-queryset/internal/queryset/field"
+	"github.com/quangdangfit/go-queryset/internal/queryset/methods"
 )
 
 type querySetStructConfig struct {

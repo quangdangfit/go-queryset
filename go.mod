@@ -1,4 +1,4 @@
-module github.com/Bacbia3696/go-queryset
+module github.com/quangdangfit/go-queryset
 
 go 1.24.2
 
